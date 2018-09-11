@@ -6,5 +6,7 @@ show_author_profile: true
 ---
 
 Today has been a great day. Seriously. 
-Everything has been o.k.
+<p>Everything has been o.k.</p>
 {:.success}
+
+<div class="button button--secondary button--pill">Look it up!</div>
