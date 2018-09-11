@@ -1,9 +1,7 @@
 header:
   - title:      Docs
     url:        /docs/en/quick-start
-  - title:
-      en:       Online presences
+  - title:      Online presences
     url:        /archive.html
-  - title:
-      en:       Info
+  - title:      Info
     url:        /about.html
