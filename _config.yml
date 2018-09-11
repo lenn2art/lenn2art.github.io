@@ -19,7 +19,7 @@
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "tomorrow"
 url     : https://lenn2art.github.io
-baseurl : lenn2art.github.io
+baseurl : /
 title   : "Lennart"
 description: > # this means to ignore newlines until "Language & timezone"
   Hi!
